@@ -1,0 +1,5 @@
+C:\Users\SHA\Documents\ARCHIVOS\Tareas Curso .NET C#\EjercicioCartasEspaniolas\obj\Debug\net6.0\EjercicioCartasEspaniolas.csproj.AssemblyReference.cache
+C:\Users\SHA\Documents\ARCHIVOS\Tareas Curso .NET C#\EjercicioCartasEspaniolas\obj\Debug\net6.0\EjercicioCartasEspaniolas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHA\Documents\ARCHIVOS\Tareas Curso .NET C#\EjercicioCartasEspaniolas\obj\Debug\net6.0\EjercicioCartasEspaniolas.AssemblyInfoInputs.cache
+C:\Users\SHA\Documents\ARCHIVOS\Tareas Curso .NET C#\EjercicioCartasEspaniolas\obj\Debug\net6.0\EjercicioCartasEspaniolas.AssemblyInfo.cs
+C:\Users\SHA\Documents\ARCHIVOS\Tareas Curso .NET C#\EjercicioCartasEspaniolas\obj\Debug\net6.0\EjercicioCartasEspaniolas.csproj.CoreCompileInputs.cache
